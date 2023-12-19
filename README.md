@@ -1,2 +1,2 @@
 # stats_curriculum
-place to record and demo my skillsets
+portfolio of stats tricks and tips
