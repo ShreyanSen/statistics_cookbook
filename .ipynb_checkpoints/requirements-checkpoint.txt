@@ -110,7 +110,6 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==10.0.1
 platformdirs==3.10.0
-progressbar2==4.4.2
 prometheus-client==0.17.1
 prompt-toolkit==3.0.39
 protobuf==4.25.1
@@ -121,7 +120,6 @@ pyarrow==14.0.2
 pycparser==2.21
 pydeck==0.8.1b0
 pydot==1.4.2
-pygam==0.9.1
 Pygments==2.16.1
 pymc==5.10.2
 pyparsing==3.1.1
@@ -129,7 +127,6 @@ pyproj==3.6.1
 pytensor==2.18.4
 python-dateutil==2.8.2
 python-json-logger==2.0.7
-python-utils==3.8.2
 pytz==2023.3.post1
 PyYAML==6.0.1
 pyzmq==25.1.1
